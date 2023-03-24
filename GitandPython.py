@@ -2,9 +2,9 @@
 
 # I added this comment for branching and showing that I edited the GitandPython.py file
 
-name = input("what is the name of this user? ")
+user_name = input("what is the name of this user? ")
 
-if name == "Anthony Cross":
+if user_name == "Anthony Cross":
     print("Welcome back boss!")
 
 elif input != "name":
