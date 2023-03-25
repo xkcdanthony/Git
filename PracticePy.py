@@ -11,7 +11,7 @@ import random
 import string
 
 
-length = int(input("\n How many characters would you like your passwrod to be: "))
+length = int(input("\n How many characters would you like your password to be?: "))
 
 
 lower = string.ascii_letters
@@ -31,4 +31,4 @@ password = "".join(temp)
 
 print(password)
 
-input("Thank you for using this proigram your passcode has been generated! ")
+input("Thank you for using this program your passcode has been generated! ")
